@@ -288,6 +288,19 @@ body {
         margin: 10px;
     }
 
+    .social-icon {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .social-icon img {
+        width: 50px;
+    }
+
+
 }
 
 
@@ -481,6 +494,18 @@ body {
         text-decoration: none;
         color: white;
         margin: 10px;
+    }
+
+    .social-icon {
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .social-icon img {
+        width: 50px;
     }
 
 }
@@ -682,6 +707,18 @@ body {
         text-decoration: none;
         color: white;
         margin: 10px;
+    }
+
+    .social-icon {
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        align-items: center;
+        gap: 25px;
+    }
+
+    .social-icon img {
+        width: 60px;
     }
 }
 
