@@ -163,6 +163,7 @@ body {
 
 
 
+
     .main-manu-btn {
         width: 70%;
         padding: 30px;
@@ -171,6 +172,10 @@ body {
         margin-bottom: -5px;
         font-size: 45px;
 
+    }
+
+    .main-manu-btn a {
+        text-decoration: none;
     }
 
     .red-color {
